@@ -1,0 +1,11 @@
+file_format: "1"
+id: aonami
+name: AONAMI
+type: shield
+url: 
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - aonami_left
+  - aonami_right
